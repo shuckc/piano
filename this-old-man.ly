@@ -41,3 +41,18 @@ text = \lyricmode {
     \addlyrics { \text }
     \new Staff { \lower }
   >>
+
+\markup {
+  \column {
+    \line {"One - Thumb"}
+    \line {"Two - Shoe"}
+    \line {"Three - Knee"}
+    \line {"Four - Door"}
+    \line {"Five - Hive"}
+    \line {"Six - Sticks"}
+    \line {"Seven - Heaven"}
+    \line {"Eight - Gate"}
+    \line {"Nine - Vine"}
+    \line {"Ten - All over again"}
+  }
+}
